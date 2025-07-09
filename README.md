@@ -15,7 +15,7 @@ When no strong match is found, it defaults to global letter frequency across the
 ├── Anshuman_Hangman_Report.pdf  # Summary report of the approach and findings
 ├── README.md                  # This readme file
 ├── LICENSE                    # Open source license (MIT)
-
+```
 ## 📊 Performance Observations
 
 - ✅ ~64% win rate for first 40 practice games  
