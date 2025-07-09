@@ -7,6 +7,15 @@ It ranks unguessed letters by their likelihood across matching word candidates, 
 Fallback heuristics use substring matching (0.75, 0.5, 0.33 of word length) to recover from difficult matches.  
 When no strong match is found, it defaults to global letter frequency across the training corpus.  
 
+## 📁 Project Structure
+
+```
+├── finalt1.ipynb              # Main notebook containing the full implementation and logic
+├── words_250000_train.txt     # Full dictionary used for filtering and frequency analysis
+├── Anshuman_Hangman_Report.pdf  # Summary report of the approach and findings
+├── README.md                  # This readme file
+├── LICENSE                    # Open source license (MIT)
+
 ## 📊 Performance Observations
 
 - ✅ ~64% win rate for first 40 practice games  
